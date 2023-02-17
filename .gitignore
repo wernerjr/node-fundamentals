@@ -118,6 +118,6 @@ dist
 .pnp.*
 
 # Extra Files
-db.json
+src/db.json
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
